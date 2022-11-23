@@ -1,0 +1,3 @@
+D:/Classes/C/Mabani/Battleship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Classes/C/Mabani/Battleship/cmake-build-debug/CMakeFiles/Battleship.dir
+D:/Classes/C/Mabani/Battleship/cmake-build-debug/CMakeFiles/edit_cache.dir
